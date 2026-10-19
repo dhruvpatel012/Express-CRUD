@@ -37,4 +37,4 @@ A simple CRUD API project built using Node.js, Express.js, and the File System (
 
 ## Video Demo
 
-Watch my project explanation video: [Click here to watch]()
+Watch my project explanation video: [Click here to watch](https://drive.google.com/file/d/10r7BCa1oe9d8sZKu3nz8YNxDuPfIrEAX/view?usp=drive_link)
